@@ -7,6 +7,15 @@ namespace ConsoleApp1GIT
 		static void Main(string[] args)
 		{
 			//deu certo!!!!!
+
+			System.Threading.Thread.Sleep(10000);
+
+			System.Threading.Thread.Sleep(10000);
+
+			System.Threading.Thread.Sleep(10000);
+
+			System.Threading.Thread.Sleep(10000);
+
 		}
 	}
 }
