@@ -6,7 +6,7 @@ namespace ConsoleApp1GIT
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World plus 4!");
+			Console.WriteLine("Hello World plus 6!");
 		}
 	}
 }
