@@ -6,7 +6,7 @@ namespace ConsoleApp1GIT
 	{
 		static void Main(string[] args)
 		{
-			System.Threading.Thread.Sleep(10000);
+			Console.WriteLine("working");
 		}
 	}
 }
